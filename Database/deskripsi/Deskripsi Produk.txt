@@ -1,0 +1,11 @@
+Name Label:
+Label/Stiker yang berisi nama dan kontak untuk menandai barang-barang kepemilikan kita agar tidak tertukar dengan orang lain.
+
+Shipping Label:
+Label/Stiker yang digunakan untuk mengirim barang. Stiker bisa untuk menulis alamat tujuan barang yang ingin dikirim. Stiker ini sangat berguna untuk online shop yang ingin mengirimkan barang ke customernya.
+
+Product Stiker:
+Stiker ini berguna untuk online shop atau pebisnis yang ingin terdapat logo usaha customer pada produk yang ingin dijual.
+
+Round Sticker:
+Stiker ini bisa digunakan untuk apa saja, termasuk menandai barang pribadi atau produk yang ingin dijual. Yang spesial dari stiker ini adalah bentuknya yang bundar.
